@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+* {
+  font-family: "Quicksand", cursive;
+  outline: none;
+  text-decoration: none;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+  background-color: #fffefb;
+}
+
+label {
+  margin-left: 2px;
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.mb-8 {
+  margin-bottom: 8px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
